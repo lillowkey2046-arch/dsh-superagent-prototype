@@ -1,1 +1,1 @@
-This line contains a deliberate typo: recieve.
+This line contains a deliberate typo: receive.
